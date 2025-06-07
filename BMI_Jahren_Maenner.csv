@@ -1,0 +1,726 @@
+Olympic_Jahr;Sportart;Gewicht in kg;Groesse in cm;BMI
+1904;Aeronautics;75;170;26
+1908;Aeronautics;96;185,25;28
+1920;Aeronautics;93,5;178;29,5
+1924;Aeronautics;100;189;28
+1936;Aeronautics;110;185;32,1
+1948;Aeronautics;100;187;28,6
+1952;Aeronautics;112,33;187,67;31,9
+1956;Aeronautics;113;188,5;31,8
+1960;Aeronautics;106,44;183,63;31,6
+1964;Aeronautics;106,54;184,77;31,2
+1968;Aeronautics;111,79;188,07;31,6
+1972;Aeronautics;100,63;185;29,4
+1976;Aeronautics;98,4;183,6;29,2
+1980;Aeronautics;96,57;185,07;28,2
+1984;Aeronautics;99,9;183,8;29,6
+1988;Aeronautics;101,86;183;30,4
+1992;Aeronautics;100,4;183,33;29,9
+1996;Aeronautics;100,11;183,11;29,9
+2000;Aeronautics;96,16;182,79;28,8
+2004;Aeronautics;94,57;181,9;28,6
+2008;Aeronautics;96,06;182,72;28,8
+2012;Aeronautics;95,29;181,76;28,8
+2016;Aeronautics;98,21;180,47;30,2
+1908;Art Competitions;74,33;177;23,7
+1920;Art Competitions;75;171;25,6
+1928;Art Competitions;73;170;25,3
+1932;Art Competitions;78;177,67;24,7
+1936;Art Competitions;87,5;176,5;28,1
+1948;Art Competitions;72,5;175,5;23,5
+1952;Art Competitions;78;182;23,5
+1956;Art Competitions;84,75;186,5;24,4
+1960;Art Competitions;74,74;178,68;23,4
+1964;Art Competitions;73,53;176,2;23,7
+1968;Art Competitions;72,83;178,64;22,8
+1972;Art Competitions;73,27;180,38;22,5
+1976;Art Competitions;74,78;182,11;22,5
+1980;Art Competitions;72,55;181,25;22,1
+1984;Art Competitions;76,57;181,88;23,1
+1988;Art Competitions;75,33;181,69;22,8
+1992;Art Competitions;76,3;182,39;22,9
+1996;Art Competitions;78,6;184,37;23,1
+2000;Art Competitions;77,72;183,04;23,2
+2004;Art Competitions;78,8;184,11;23,2
+2008;Art Competitions;79,67;184,73;23,3
+2012;Art Competitions;81,12;185,21;23,6
+2016;Art Competitions;79,74;185,74;23,1
+1908;Badminton;69;171,67;23,4
+1912;Badminton;66;165;24,2
+1920;Badminton;73,5;165,5;26,8
+1924;Badminton;77,5;161;29,9
+1936;Badminton;67;170;23,2
+1948;Badminton;107;187;30,6
+1952;Badminton;78;180,83;23,9
+1956;Badminton;79,18;181,45;24
+1960;Badminton;74,85;178,05;23,6
+1964;Badminton;75,19;178,56;23,6
+1968;Badminton;73,38;179,46;22,8
+1972;Badminton;72,34;180,12;22,3
+1976;Badminton;71,85;180,7;22
+1980;Badminton;74,67;181,85;22,6
+1984;Badminton;75,61;182,42;22,7
+1988;Badminton;76,8;185,17;22,4
+1992;Badminton;79,38;187,63;22,5
+1996;Badminton;78,41;186,15;22,6
+2000;Badminton;78,67;185,18;22,9
+2004;Badminton;79,19;185,23;23,1
+2008;Badminton;80,86;187,61;23
+2012;Badminton;81,75;188,64;23
+2016;Badminton;78,65;186,13;22,7
+1988;Baseball;68,12;176,42;21,9
+1992;Baseball;68,41;178,75;21,4
+1996;Baseball;68,28;178,3;21,5
+2000;Baseball;68,47;178,05;21,6
+2004;Baseball;67,59;177,3;21,5
+2008;Baseball;68,27;178,25;21,5
+2012;Baseball;68,43;177,54;21,7
+2016;Baseball;68,59;177,55;21,8
+1936;Basketball;79,9;184,03;23,6
+1948;Basketball;81,98;187,43;23,3
+1952;Basketball;84,71;190,02;23,5
+1956;Basketball;86,12;188,28;24,3
+1960;Basketball;84,04;188,38;23,7
+1964;Basketball;84,54;189,92;23,4
+1968;Basketball;83,82;189,88;23,2
+1972;Basketball;86,74;193,35;23,2
+1976;Basketball;88,87;195,68;23,2
+1980;Basketball;88,48;196,38;22,9
+1984;Basketball;92,44;197,53;23,7
+1988;Basketball;92,57;197,14;23,8
+1992;Basketball;97,27;199,85;24,4
+1996;Basketball;98,63;199,24;24,8
+2000;Basketball;99,63;199,49;25
+2004;Basketball;99,39;200,11;24,8
+2008;Basketball;98,56;200,08;24,6
+2012;Basketball;99,23;200,75;24,6
+2016;Basketball;100,2;200,5;24,9
+1960;Beach Volleyball;74,8;179,43;23,2
+1964;Beach Volleyball;75,84;180;23,4
+1968;Beach Volleyball;74,99;180,91;22,9
+1972;Beach Volleyball;74,78;181,71;22,6
+1976;Beach Volleyball;76;182,68;22,8
+1980;Beach Volleyball;75,66;183,38;22,5
+1984;Beach Volleyball;77,61;184,15;22,9
+1988;Beach Volleyball;78,49;184,68;23
+1992;Beach Volleyball;79,58;186,4;22,9
+1996;Beach Volleyball;81,79;187,94;23,2
+2000;Beach Volleyball;82,38;187,36;23,5
+2004;Beach Volleyball;83,21;187,52;23,7
+2008;Beach Volleyball;83,59;188,36;23,6
+2012;Beach Volleyball;84,14;188,71;23,6
+2016;Beach Volleyball;81,89;188,99;22,9
+1904;Boxing;94,75;187;27,1
+1908;Boxing;92,69;183,19;27,6
+1912;Boxing;92,75;185,42;27
+1920;Boxing;94,09;185;27,5
+1924;Boxing;90,75;184,14;26,8
+1928;Boxing;93,47;185,53;27,2
+1932;Boxing;94,31;186,85;27
+1936;Boxing;96,69;187,56;27,5
+1948;Boxing;96,55;187,73;27,4
+1952;Boxing;98,27;187,67;27,9
+1956;Boxing;109,09;189,09;30,5
+1960;Boxing;108;188,42;30,4
+1964;Boxing;111,86;190,05;31
+1968;Boxing;117,63;190,11;32,5
+1972;Boxing;123,47;192,1;33,5
+1976;Boxing;126,76;192,91;34,1
+1980;Boxing;124,41;190,88;34,1
+1984;Boxing;116,84;192;31,7
+1988;Boxing;121,29;190,57;33,4
+1992;Boxing;119,15;191,54;32,5
+1996;Boxing;122,03;190,43;33,7
+2000;Boxing;125,43;191,68;34,1
+2004;Boxing;127,67;192,49;34,5
+2008;Boxing;124,86;190,64;34,4
+2012;Boxing;126,8;191,35;34,6
+2016;Boxing;128,58;192,7;34,6
+1908;Canoeing;85,75;179;26,8
+1920;Canoeing;86,5;174;28,6
+1924;Canoeing;84;180;25,9
+1936;Canoeing;77,5;174;25,6
+1956;Canoeing;85,67;176,33;27,6
+1960;Canoeing;86,15;178,65;27
+1964;Canoeing;96,94;183;28,9
+1968;Canoeing;98,06;183,63;29,1
+1972;Canoeing;89,46;182,77;26,8
+1976;Canoeing;91;183,23;27,1
+1980;Canoeing;92,07;183,64;27,3
+1984;Canoeing;90,83;182,5;27,3
+1988;Canoeing;90,69;182,52;27,2
+1992;Canoeing;92,36;183,83;27,3
+1996;Canoeing;90,89;183,78;26,9
+2000;Canoeing;85,45;180,4;26,3
+2004;Canoeing;85,15;180,85;26
+2008;Canoeing;84,05;179,2;26,2
+2012;Canoeing;85,37;179,11;26,6
+2016;Canoeing;87,19;178,52;27,4
+1928;Equestrianism;64,17;166,33;23,2
+1932;Equestrianism;61;170;21,1
+1936;Equestrianism;62,2;167;22,3
+1948;Equestrianism;66,33;169;23,2
+1952;Equestrianism;64,91;167,97;23
+1956;Equestrianism;66,22;168,37;23,4
+1960;Equestrianism;65,19;168,63;22,9
+1964;Equestrianism;64,18;168,35;22,6
+1968;Equestrianism;63,76;168,38;22,5
+1972;Equestrianism;63,78;168,68;22,4
+1976;Equestrianism;62,78;168,34;22,2
+1980;Equestrianism;62,71;168,55;22,1
+1984;Equestrianism;62,31;166,46;22,5
+1988;Equestrianism;62,66;167,43;22,4
+1992;Equestrianism;62,72;166,85;22,5
+1996;Equestrianism;62,51;166,21;22,6
+2000;Equestrianism;62,86;166,33;22,7
+2004;Equestrianism;63,1;166,53;22,8
+2008;Equestrianism;62,54;166,32;22,6
+2012;Equestrianism;62,24;166,17;22,5
+2016;Equestrianism;62,99;166,86;22,6
+1928;Fencing;64;168;22,7
+1932;Fencing;64;172;21,6
+1936;Fencing;62,2;167;22,3
+1948;Fencing;66,33;169;23,2
+1952;Fencing;64,91;167,97;23
+1956;Fencing;66,22;168,37;23,4
+1960;Fencing;65,19;168,62;22,9
+1964;Fencing;64,18;168,35;22,6
+1968;Fencing;63,89;168,53;22,5
+1972;Fencing;63,71;168,62;22,4
+1976;Fencing;62,78;168,34;22,2
+1980;Fencing;62,71;168,55;22,1
+1984;Fencing;62,31;166,46;22,5
+1988;Fencing;62,66;167,43;22,4
+1992;Fencing;62,72;166,85;22,5
+1996;Fencing;62,68;166,58;22,6
+2000;Fencing;63,08;166,97;22,6
+2004;Fencing;63,39;167,2;22,7
+2008;Fencing;63,15;167,18;22,6
+2012;Fencing;63,02;167,08;22,6
+2016;Fencing;63,2;167,66;22,5
+1912;Figure Skating;70,37;178,63;22,1
+1920;Figure Skating;71,14;177,86;22,5
+1924;Figure Skating;67,78;174,31;22,3
+1928;Figure Skating;67,94;175,44;22,1
+1932;Figure Skating;69,56;176,17;22,4
+1936;Figure Skating;72,19;178,24;22,7
+1948;Figure Skating;71,04;179,04;22,2
+1952;Figure Skating;70,24;175,4;22,8
+1956;Figure Skating;68,73;175,89;22,2
+1960;Figure Skating;68,79;176,19;22,2
+1964;Figure Skating;69,99;176,48;22,5
+1968;Figure Skating;71,28;176,22;23
+1972;Figure Skating;69,91;176,05;22,6
+1976;Figure Skating;70,46;176,38;22,6
+1980;Figure Skating;71,36;178,97;22,3
+1984;Figure Skating;70,4;177,2;22,4
+1988;Figure Skating;71,37;177,02;22,8
+1992;Figure Skating;73,47;177,93;23,2
+1996;Figure Skating;74,47;179,38;23,1
+2000;Figure Skating;73,84;178,26;23,2
+2004;Figure Skating;77,45;180,02;23,9
+2008;Figure Skating;76,39;179,92;23,6
+2012;Figure Skating;77,13;180,69;23,6
+2016;Figure Skating;75,51;180,16;23,3
+1908;Football;99;182;29,9
+1912;Football;72,6;173,33;24,2
+1920;Football;75,18;175,36;24,4
+1924;Football;72,03;174,17;23,7
+1928;Football;72,19;173,53;24
+1936;Football;71,5;173,1;23,9
+1948;Football;74,04;175,35;24,1
+1952;Football;72,24;174,5;23,7
+1956;Football;70,82;176,64;22,7
+1960;Football;69,92;173,85;23,1
+1964;Football;70,66;174,17;23,3
+1968;Football;69,3;173,99;22,9
+1972;Football;71,24;175,7;23,1
+1976;Football;71,47;175,35;23,2
+1980;Football;72,88;177,05;23,2
+1984;Football;73,38;177,81;23,2
+1988;Football;74,74;179,66;23,2
+1992;Football;76,02;179,51;23,6
+1996;Football;74,68;179,12;23,3
+2000;Football;74,31;179,26;23,1
+2004;Football;75,16;179,71;23,3
+2008;Football;75,62;180,62;23,2
+2012;Football;73,91;179,53;22,9
+2016;Football;73,95;179,52;22,9
+1912;Golf;81;177;25,9
+1920;Golf;74,5;178,5;23,4
+1924;Golf;80;174;26,4
+1928;Golf;69;173;23,1
+1932;Golf;84;180;25,9
+1936;Golf;90;185;26,3
+1948;Golf;76,7;177;24,5
+1952;Golf;76;177,94;24
+1956;Golf;72,4;176,4;23,3
+1960;Golf;72;176,86;23
+1964;Golf;70,84;176,57;22,7
+1968;Golf;72,93;177,07;23,3
+1972;Golf;72,86;177,6;23,1
+1976;Golf;72,33;178,91;22,6
+1980;Golf;71,81;179,31;22,3
+1984;Golf;72,02;178,43;22,6
+1988;Golf;71,74;178,74;22,5
+1992;Golf;75,84;179,98;23,4
+1996;Golf;76,83;181,13;23,4
+2000;Golf;77,45;181,33;23,6
+2004;Golf;74,97;179,92;23,2
+2008;Golf;73,73;179,81;22,8
+2012;Golf;74,78;182,19;22,5
+2016;Golf;77,06;182,46;23,1
+1920;Handball;75;171;25,6
+1928;Hockey;64;168;22,7
+1932;Hockey;64;172;21,6
+1936;Hockey;62,2;167;22,3
+1948;Hockey;66,33;169;23,2
+1952;Hockey;64,91;167,97;23
+1956;Hockey;66,22;168,37;23,4
+1960;Hockey;65,19;168,63;22,9
+1964;Hockey;64,02;168,15;22,6
+1968;Hockey;63,84;168,47;22,5
+1972;Hockey;63,78;168,68;22,4
+1976;Hockey;62,78;168,34;22,2
+1980;Hockey;62,72;168,55;22,1
+1984;Hockey;62,31;166,46;22,5
+1988;Hockey;62,66;167,43;22,4
+1992;Hockey;62,72;166,85;22,5
+1996;Hockey;62,38;166,34;22,5
+2000;Hockey;62,68;166,38;22,6
+2004;Hockey;63,01;166,78;22,7
+2008;Hockey;61,38;163,5;23
+2012;Hockey;61,76;164,12;22,9
+2016;Hockey;62;163,65;23,2
+1924;Ice Hockey;95;188;26,9
+1936;Ice Hockey;71;170,83;24,3
+1948;Ice Hockey;70,9;171,7;24
+1952;Ice Hockey;70,82;172,82;23,7
+1956;Ice Hockey;73,32;173,71;24,3
+1960;Ice Hockey;74,69;173,93;24,7
+1964;Ice Hockey;73,13;173,53;24,3
+1984;Ice Hockey;74,46;174,24;24,5
+1988;Ice Hockey;76,04;177,05;24,3
+1992;Ice Hockey;76,44;177,49;24,3
+1996;Ice Hockey;75,79;177,83;24
+2000;Ice Hockey;77,25;178,11;24,4
+2004;Ice Hockey;78,85;177,76;25
+2008;Ice Hockey;80,2;178,85;25,1
+2012;Ice Hockey;78,17;177,63;24,8
+2016;Ice Hockey;78,82;176,98;25,2
+1904;Jeu De Paume;74;180;22,8
+1908;Jeu De Paume;70,62;177,92;22,3
+1912;Jeu De Paume;72,71;177,64;23
+1920;Jeu De Paume;73,9;179,6;22,9
+1924;Jeu De Paume;71,88;177,56;22,8
+1928;Jeu De Paume;73,11;178,95;22,8
+1932;Jeu De Paume;73,78;177,67;23,4
+1936;Jeu De Paume;72,08;178,92;22,5
+1948;Jeu De Paume;74,78;181;22,8
+1952;Jeu De Paume;71,6;180,53;22
+1956;Jeu De Paume;70,28;176,5;22,6
+1960;Jeu De Paume;72,19;179,54;22,4
+1964;Jeu De Paume;72,53;181,94;21,9
+1968;Jeu De Paume;72,51;181,17;22,1
+1972;Jeu De Paume;73,69;181,67;22,3
+1976;Jeu De Paume;73,16;181,53;22,2
+1980;Jeu De Paume;73,43;179,87;22,7
+1984;Jeu De Paume;72,73;180,53;22,3
+1988;Jeu De Paume;75,43;182,38;22,7
+1992;Jeu De Paume;73,46;180,9;22,4
+1996;Jeu De Paume;76,04;184,86;22,3
+2000;Jeu De Paume;76,3;183,53;22,7
+2004;Jeu De Paume;76,03;183,28;22,6
+2008;Jeu De Paume;77,89;183,89;23
+2012;Jeu De Paume;76,71;185,26;22,4
+2016;Jeu De Paume;75,03;184;22,2
+1980;Judo;61,42;165,81;22,3
+1984;Judo;59,8;166,16;21,7
+1988;Judo;61,03;165,03;22,4
+1992;Judo;61,14;164,52;22,6
+1996;Judo;62,13;165,42;22,7
+2000;Judo;60,64;164,88;22,3
+2004;Judo;61,18;166,42;22,1
+2008;Judo;61,91;165,7;22,5
+2012;Judo;60,74;166,47;21,9
+2016;Judo;60,67;166,15;22
+1908;Lacrosse;80;174;26,4
+1912;Lacrosse;81;177;25,9
+1920;Lacrosse;78,33;179,67;24,3
+1924;Lacrosse;83;183;24,8
+1928;Lacrosse;83;183;24,8
+1932;Lacrosse;88;184,5;25,9
+1936;Lacrosse;78,5;180,5;24,1
+1948;Lacrosse;76,2;178;24
+1952;Lacrosse;76,59;180,44;23,5
+1956;Lacrosse;73,45;180,62;22,5
+1960;Lacrosse;72,89;178,47;22,9
+1964;Lacrosse;73,98;179,63;22,9
+1968;Lacrosse;75,3;181,06;23
+1972;Lacrosse;76,74;182,83;23
+1976;Lacrosse;76,1;183,71;22,5
+1980;Lacrosse;74,83;182,73;22,4
+1984;Lacrosse;76,32;183,68;22,6
+1988;Lacrosse;77,28;183,84;22,9
+1992;Lacrosse;77,24;183,84;22,9
+1996;Lacrosse;80,69;184,92;23,6
+2000;Lacrosse;80,68;185,66;23,4
+2004;Lacrosse;81,46;185,59;23,7
+2008;Lacrosse;82,35;185,4;24
+2012;Lacrosse;80,79;184,31;23,8
+2016;Lacrosse;81,3;184,65;23,8
+1904;Modern Pentathlon;66;173;22,1
+1908;Modern Pentathlon;84,67;181,17;25,8
+1912;Modern Pentathlon;89,75;182,5;26,9
+1920;Modern Pentathlon;90,5;183;27
+1924;Modern Pentathlon;90,5;183;27
+1928;Modern Pentathlon;95;189;26,6
+1948;Modern Pentathlon;85;184,75;24,9
+1952;Modern Pentathlon;84,05;184,1;24,8
+1956;Modern Pentathlon;83,59;183,26;24,9
+1960;Modern Pentathlon;82,48;182,31;24,8
+1964;Modern Pentathlon;81,19;182,07;24,5
+1968;Modern Pentathlon;82,2;182,63;24,6
+1972;Modern Pentathlon;82,09;182,84;24,6
+1976;Modern Pentathlon;83,78;184,76;24,5
+1980;Modern Pentathlon;84,21;185,81;24,4
+1984;Modern Pentathlon;84,52;186,26;24,4
+1988;Modern Pentathlon;85,52;186,53;24,6
+1992;Modern Pentathlon;87,52;188,37;24,7
+1996;Modern Pentathlon;90,58;190,03;25,1
+2000;Modern Pentathlon;91,39;190,06;25,3
+2004;Modern Pentathlon;93,72;190,68;25,8
+2008;Modern Pentathlon;95,28;191,33;26
+2012;Modern Pentathlon;96,2;192,76;25,9
+2016;Modern Pentathlon;94,73;191,36;25,9
+1924;Motorboating;102,5;181;31,3
+1952;Motorboating;90,78;179;28,3
+1956;Motorboating;84,33;178,11;26,6
+1960;Motorboating;81;176,08;26,1
+1964;Motorboating;81,92;175,65;26,6
+1996;Motorboating;87,7;179,02;27,4
+2000;Motorboating;87,59;178,71;27,4
+2004;Motorboating;88,5;177,53;28,1
+2008;Motorboating;88,79;179,24;27,6
+2012;Motorboating;90,18;180,73;27,6
+2016;Motorboating;91,23;180,35;28
+1908;Polo;80;174;26,4
+1912;Polo;80;174;26,4
+1920;Polo;76,8;179,2;23,9
+1924;Polo;75,5;176,5;24,2
+1928;Polo;79,4;180,6;24,3
+1932;Polo;88;184,5;25,9
+1936;Polo;77;178,17;24,3
+1948;Polo;73,13;174,83;23,9
+1952;Polo;75,24;180,9;23
+1956;Polo;74,59;180,24;23
+1960;Polo;73,37;179,81;22,7
+1964;Polo;73,02;179,15;22,8
+1968;Polo;75,15;181,14;22,9
+1972;Polo;76,72;182,85;22,9
+1976;Polo;75,8;183,44;22,5
+1980;Polo;75,49;183,12;22,5
+1984;Polo;75,2;182,99;22,5
+1988;Polo;78,06;184,57;22,9
+1992;Polo;79,13;186,21;22,8
+1996;Polo;81,93;186,24;23,6
+2000;Polo;80,43;185,43;23,4
+2004;Polo;83,03;186,9;23,8
+2008;Polo;81,69;186,19;23,6
+2016;Polo;80,39;184,67;23,6
+1924;Racquets;80;180,5;24,6
+1936;Racquets;76,14;175,14;24,8
+1948;Racquets;80,4;180,2;24,8
+1952;Racquets;83;175,58;26,9
+1956;Racquets;78,31;175,38;25,5
+1960;Racquets;73,67;173,13;24,6
+1964;Racquets;76,38;174,66;25
+1984;Racquets;76,98;175,13;25,1
+1988;Racquets;73,72;175,25;24
+1992;Racquets;77,37;175,65;25,1
+1996;Racquets;77,74;174,81;25,4
+2000;Racquets;75,75;173,5;25,2
+2004;Racquets;79,88;175,06;26,1
+2008;Racquets;82;177,11;26,1
+2012;Racquets;79,83;176,22;25,7
+2016;Racquets;79,92;178,31;25,1
+1904;Rhythmic Gymnastics;68,5;178,25;21,6
+1908;Rhythmic Gymnastics;65;174,11;21,4
+1912;Rhythmic Gymnastics;64,17;175,17;20,9
+1920;Rhythmic Gymnastics;65,3;173,6;21,7
+1924;Rhythmic Gymnastics;67,14;176,07;21,7
+1928;Rhythmic Gymnastics;66,58;175,54;21,6
+1932;Rhythmic Gymnastics;66,86;177,57;21,2
+1936;Rhythmic Gymnastics;63,74;175,04;20,8
+1948;Rhythmic Gymnastics;64,41;176,27;20,7
+1952;Rhythmic Gymnastics;66;177,2;21
+1956;Rhythmic Gymnastics;65,9;178,16;20,8
+1960;Rhythmic Gymnastics;66,05;177,08;21,1
+1964;Rhythmic Gymnastics;67,42;177,98;21,3
+1968;Rhythmic Gymnastics;65,46;178,2;20,6
+1972;Rhythmic Gymnastics;65,6;178,54;20,6
+1976;Rhythmic Gymnastics;66,83;179,45;20,8
+1980;Rhythmic Gymnastics;64,08;178;20,2
+1984;Rhythmic Gymnastics;64,86;177,6;20,6
+1988;Rhythmic Gymnastics;64,88;178,46;20,4
+1992;Rhythmic Gymnastics;63,47;177,51;20,1
+1996;Rhythmic Gymnastics;65,73;179,29;20,4
+2000;Rhythmic Gymnastics;64,6;178,23;20,3
+2004;Rhythmic Gymnastics;65,47;179,21;20,4
+2008;Rhythmic Gymnastics;62,8;176,26;20,2
+2012;Rhythmic Gymnastics;64,77;178,74;20,3
+2016;Rhythmic Gymnastics;64,51;178,36;20,3
+1952;Roque;66,5;172;22,5
+1956;Roque;65,2;171,2;22,2
+1960;Roque;63,38;172,31;21,3
+1964;Roque;63,29;172,12;21,4
+1968;Roque;63,63;171,94;21,5
+1972;Roque;63,45;171,26;21,6
+1976;Roque;63,48;174;21
+1980;Roque;64,07;172,43;21,5
+1984;Roque;64,17;172,17;21,6
+1988;Roque;63,63;171,55;21,6
+1992;Roque;61,96;173,38;20,6
+1996;Roque;64,13;173,39;21,3
+2000;Roque;62,96;173;21
+2004;Roque;64,48;173,59;21,4
+2008;Roque;64,81;175,73;21
+2012;Roque;64,05;173,68;21,2
+2016;Roque;63,72;174,8;20,9
+1928;Rowing;64;168;22,7
+1932;Rowing;61;170;21,1
+1936;Rowing;62,2;167;22,3
+1948;Rowing;66,33;169;23,2
+1952;Rowing;64,91;167,97;23
+1956;Rowing;66,22;168,37;23,4
+1960;Rowing;65,19;168,62;22,9
+1964;Rowing;64,18;168,35;22,6
+1968;Rowing;63,76;168,38;22,5
+1972;Rowing;63,78;168,68;22,4
+1976;Rowing;62,78;168,34;22,2
+1980;Rowing;62,71;168,55;22,1
+1984;Rowing;62,31;166,46;22,5
+1988;Rowing;62,66;167,43;22,4
+1992;Rowing;62,72;166,85;22,5
+1996;Rowing;62,52;166,44;22,6
+2000;Rowing;62,56;166,23;22,6
+2004;Rowing;62,91;166,91;22,6
+2008;Rowing;62,77;167,03;22,5
+2012;Rowing;62,37;166,86;22,4
+2016;Rowing;62,45;167,72;22,2
+1956;Rugby;68,77;175;22,5
+1960;Rugby;67,51;172,61;22,7
+1964;Rugby;68,48;173,9;22,6
+1968;Rugby;69,84;174,46;22,9
+1972;Rugby;69,4;174,94;22,7
+1976;Rugby;69,4;175,02;22,7
+1980;Rugby;69,13;175;22,6
+1984;Rugby;70,46;176,15;22,7
+1988;Rugby;71,41;177,64;22,6
+1992;Rugby;72,57;176,99;23,2
+1996;Rugby;72,87;176,87;23,3
+2000;Rugby;72,53;177,03;23,1
+2004;Rugby;73,65;177,6;23,3
+2008;Rugby;73,07;178,13;23
+2012;Rugby;73,39;178,08;23,1
+2016;Rugby;72,95;179,23;22,7
+1968;Rugby Sevens;71,57;176,6;22,9
+1972;Rugby Sevens;74,29;180,76;22,7
+1976;Rugby Sevens;73,22;181,57;22,2
+1980;Rugby Sevens;74,42;180,97;22,7
+1984;Rugby Sevens;75,5;181,35;23
+1988;Rugby Sevens;75,3;181,77;22,8
+1992;Rugby Sevens;76,66;183,5;22,8
+1996;Rugby Sevens;81,09;186,88;23,2
+2000;Rugby Sevens;78,95;185,11;23
+2004;Rugby Sevens;79,83;185;23,3
+2008;Rugby Sevens;80,82;185,46;23,5
+2012;Rugby Sevens;80,83;185,45;23,5
+2016;Rugby Sevens;80;185,02;23,4
+1992;Sailing;72,76;178,94;22,7
+1996;Sailing;74,23;181,2;22,6
+2000;Sailing;72,06;179,4;22,4
+2004;Sailing;72,68;178,55;22,8
+2008;Sailing;72,5;179;22,6
+2012;Sailing;72,87;178,61;22,8
+2016;Sailing;74,28;179,74;23
+1928;Shooting;64,17;166,33;23,2
+1932;Shooting;61;170;21,1
+1936;Shooting;62,2;167;22,3
+1948;Shooting;66,33;169;23,2
+1952;Shooting;64,91;167,97;23
+1956;Shooting;66,22;168,37;23,4
+1960;Shooting;65,19;168,63;22,9
+1964;Shooting;64,18;168,35;22,6
+1968;Shooting;63,89;168,53;22,5
+1972;Shooting;63,78;168,68;22,4
+1976;Shooting;62,78;168,34;22,2
+1980;Shooting;62,71;168,55;22,1
+1984;Shooting;62,31;166,46;22,5
+1988;Shooting;62,66;167,43;22,4
+1992;Shooting;62,72;166,85;22,5
+1996;Shooting;62,53;166,51;22,6
+2000;Shooting;62,64;166,59;22,6
+2004;Shooting;63,04;167,16;22,6
+2008;Shooting;62,82;167,12;22,5
+2012;Shooting;62,68;167,5;22,3
+2016;Shooting;62,92;168,13;22,3
+1948;Softball;78,14;176,29;25,1
+1952;Softball;75,42;176,25;24,3
+1956;Softball;79,47;178,59;24,9
+1960;Softball;72,96;174,68;23,9
+1964;Softball;74,75;175,77;24,2
+1968;Softball;73,9;176,65;23,7
+1972;Softball;78,59;179,26;24,5
+1976;Softball;80,88;180,54;24,8
+1980;Softball;85,81;182,22;25,8
+1984;Softball;84,78;182,76;25,4
+1988;Softball;85,77;183,3;25,5
+1992;Softball;87,42;183,15;26,1
+1996;Softball;90,28;182,37;27,1
+2000;Softball;89,83;182,96;26,8
+1904;Synchronized Swimming;64;178;20,2
+1908;Synchronized Swimming;70,86;177,57;22,5
+1912;Synchronized Swimming;68,4;175,27;22,3
+1920;Synchronized Swimming;67,25;175;22
+1924;Synchronized Swimming;66,5;174,75;21,8
+1928;Synchronized Swimming;72,43;179,57;22,5
+1932;Synchronized Swimming;68,8;177;22
+1936;Synchronized Swimming;72,85;180;22,5
+1948;Synchronized Swimming;72,36;178,64;22,7
+1952;Synchronized Swimming;74,58;180,95;22,8
+1956;Synchronized Swimming;74,4;180,6;22,8
+1960;Synchronized Swimming;74,62;180,83;22,8
+1964;Synchronized Swimming;73;179,8;22,6
+1968;Synchronized Swimming;73,74;182,04;22,3
+1972;Synchronized Swimming;74,21;180,9;22,7
+1976;Synchronized Swimming;73,54;181,56;22,3
+1980;Synchronized Swimming;75,92;182,63;22,8
+1984;Synchronized Swimming;74,03;182,32;22,3
+1988;Synchronized Swimming;77,81;184,05;23
+1992;Synchronized Swimming;77,09;183,36;22,9
+1996;Synchronized Swimming;80,49;185,89;23,3
+2000;Synchronized Swimming;80,78;186,19;23,3
+2004;Synchronized Swimming;80,04;185,87;23,2
+2008;Synchronized Swimming;80,53;186,24;23,2
+2012;Synchronized Swimming;79,78;186,84;22,9
+2016;Synchronized Swimming;77,9;185,74;22,6
+1904;Table Tennis;82;189;23
+1908;Table Tennis;76;182,71;22,8
+1912;Table Tennis;74,89;183,16;22,3
+1920;Table Tennis;72;180,89;22
+1924;Table Tennis;69,46;177,08;22,2
+1928;Table Tennis;71,63;178,94;22,4
+1932;Table Tennis;72,9;182,2;22
+1936;Table Tennis;76,23;184,67;22,4
+1948;Table Tennis;76,92;185,85;22,3
+1952;Table Tennis;77,5;187,79;22
+1956;Table Tennis;76;184,75;22,3
+1960;Table Tennis;77,13;185,56;22,4
+1964;Table Tennis;78,22;185,96;22,6
+1968;Table Tennis;78,53;186,32;22,6
+1972;Table Tennis;76,72;186,21;22,1
+1976;Table Tennis;74,69;186,39;21,5
+1980;Table Tennis;78,14;189,79;21,7
+1984;Table Tennis;75,1;189,28;21
+1988;Table Tennis;76;191,46;20,7
+1992;Table Tennis;74,64;189,98;20,7
+1996;Table Tennis;75,11;189,69;20,9
+2000;Table Tennis;76,94;192,17;20,8
+2004;Table Tennis;77,37;192,66;20,8
+2008;Table Tennis;76,1;191,6;20,7
+2012;Table Tennis;77,06;192,89;20,7
+2016;Table Tennis;75,74;192,19;20,5
+1932;Taekwondo;76;173;25,4
+1956;Trampolining;72;167,6;25,6
+1960;Trampolining;73,27;175,06;23,9
+1964;Trampolining;73,33;175,17;23,9
+1968;Trampolining;72,17;176,83;23,1
+1972;Trampolining;70,48;177,69;22,3
+1976;Trampolining;69,6;177,8;22
+1980;Trampolining;75;182,87;22,4
+1984;Trampolining;73,35;180;22,6
+1988;Trampolining;75,94;183,5;22,6
+1992;Trampolining;75,73;183,29;22,5
+1996;Trampolining;77,57;183,7;23
+2000;Trampolining;77,07;183,48;22,9
+2004;Trampolining;76,23;182,9;22,8
+2008;Trampolining;76,57;182,43;23
+2012;Trampolining;76,97;182,53;23,1
+2016;Trampolining;79,14;184,96;23,1
+1912;Tug-Of-War;82;176;26,5
+1936;Tug-Of-War;81,5;188;23,1
+1996;Volleyball;72,45;182,03;21,9
+2000;Volleyball;71,66;180,58;22
+2004;Volleyball;71,77;181,14;21,9
+2008;Volleyball;71,32;180,93;21,8
+2012;Volleyball;71,49;180,87;21,9
+2016;Volleyball;71,9;181,43;21,8
+1932;Water Polo;61;167,33;21,8
+1936;Water Polo;62,2;167;22,3
+1948;Water Polo;66,33;169;23,2
+1952;Water Polo;64,91;167,97;23
+1956;Water Polo;66,22;168,37;23,4
+1960;Water Polo;65,19;168,63;22,9
+1964;Water Polo;64,02;168,15;22,6
+1968;Water Polo;63,76;168,38;22,5
+1972;Water Polo;63,71;168,62;22,4
+1976;Water Polo;62,78;168,34;22,2
+1980;Water Polo;62,71;168,55;22,1
+1984;Water Polo;62,31;166,46;22,5
+1988;Water Polo;62,66;167,43;22,4
+1992;Water Polo;62,72;166,85;22,5
+1996;Water Polo;62,29;166,25;22,5
+2000;Water Polo;63,09;166,68;22,7
+2004;Water Polo;63,1;166,75;22,7
+2008;Water Polo;62,71;166,51;22,6
+2012;Water Polo;62,52;166,45;22,6
+2016;Water Polo;63,25;167,81;22,5
+1904;Weightlifting;69,5;167;24,9
+1908;Weightlifting;60;166;21,8
+1920;Weightlifting;66;175;21,6
+1928;Weightlifting;64,17;166,33;23,2
+1932;Weightlifting;61;167,33;21,8
+1936;Weightlifting;62,2;167;22,3
+1948;Weightlifting;66,33;169;23,2
+1952;Weightlifting;64,91;167,97;23
+1956;Weightlifting;66,22;168,37;23,4
+1960;Weightlifting;65,19;168,62;22,9
+1964;Weightlifting;64,02;168,15;22,6
+1968;Weightlifting;63,76;168,38;22,5
+1972;Weightlifting;63,71;168,62;22,4
+1976;Weightlifting;62,78;168,34;22,2
+1980;Weightlifting;62,71;168,55;22,1
+1984;Weightlifting;62,31;166,46;22,5
+1988;Weightlifting;62,66;167,43;22,4
+1992;Weightlifting;62,72;166,85;22,5
+1996;Weightlifting;62,4;166,37;22,5
+2000;Weightlifting;62,69;166,67;22,6
+2004;Weightlifting;62,89;166,66;22,6
+2008;Weightlifting;62,69;166,55;22,6
+2012;Weightlifting;63,16;167,14;22,6
+2016;Weightlifting;63,18;167,78;22,4
+1904;Wrestling;69;164,33;25,6
+1908;Wrestling;73,25;174,25;24,1
+1920;Wrestling;68;172,5;22,9
+1928;Wrestling;64,17;166,33;23,2
+1932;Wrestling;61;167,33;21,8
+1936;Wrestling;62,2;167;22,3
+1948;Wrestling;66,33;169;23,2
+1952;Wrestling;65;168,09;23
+1956;Wrestling;66;168,85;23,1
+1960;Wrestling;65,23;168,75;22,9
+1964;Wrestling;64,12;168,09;22,7
+1968;Wrestling;63,75;168,33;22,5
+1972;Wrestling;63,24;168,3;22,3
+1976;Wrestling;61,71;168,03;21,9
+1980;Wrestling;62,5;168,43;22
+1984;Wrestling;62,52;166,37;22,6
+1988;Wrestling;62,81;167,6;22,4
+1992;Wrestling;62,12;166,18;22,5
+1996;Wrestling;62,04;166,16;22,5
+2000;Wrestling;61,96;166,18;22,4
+2004;Wrestling;62,92;166,81;22,6
+2008;Wrestling;62;165,83;22,5
+2012;Wrestling;62,36;166,61;22,5
+2016;Wrestling;62,57;167,22;22,4
